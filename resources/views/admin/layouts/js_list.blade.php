@@ -1,0 +1,13 @@
+<script type="text/javascript" src="{{asset('admin/js/jquery.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/popper.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/bootstrap.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/select2.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/Sortable.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/materialize-stepper.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/jquery.validate.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/additional-methods.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/sweetalert.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/katex.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/highlight.min.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/quill.js')}}?v={{CSS_JS_VER}}"></script>
+<script type="text/javascript" src="{{asset('admin/js/custom.js')}}?v={{CSS_JS_VER}}"></script>
